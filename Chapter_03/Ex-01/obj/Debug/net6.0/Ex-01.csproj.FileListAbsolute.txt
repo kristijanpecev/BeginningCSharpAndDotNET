@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\bin\Debug\net6.0\Ex-01.exe
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\bin\Debug\net6.0\Ex-01.deps.json
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\bin\Debug\net6.0\Ex-01.runtimeconfig.json
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\bin\Debug\net6.0\Ex-01.dll
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\bin\Debug\net6.0\Ex-01.pdb
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\obj\Debug\net6.0\Ex-01.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\obj\Debug\net6.0\Ex-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\obj\Debug\net6.0\Ex-01.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\obj\Debug\net6.0\Ex-01.AssemblyInfo.cs
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\obj\Debug\net6.0\Ex-01.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\obj\Debug\net6.0\Ex-01.dll
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\obj\Debug\net6.0\refint\Ex-01.dll
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\obj\Debug\net6.0\Ex-01.pdb
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\obj\Debug\net6.0\Ex-01.genruntimeconfig.cache
+C:\FullStackDevelopment\C#And.NET\BeginningCSharpAndDotNET\Chapter_03\Ex-01\obj\Debug\net6.0\ref\Ex-01.dll

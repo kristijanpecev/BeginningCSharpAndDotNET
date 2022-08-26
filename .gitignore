@@ -3,3 +3,8 @@
 ################################################################################
 
 /Chapter_02/WpfApp1/.vs
+/Chapter_02/WpfApp1/bin/Debug/net5.0-windows
+/Chapter_02/WpfApp1/obj
+/Chapter_02/ConsoleApp1/.vs
+/Chapter_02/ConsoleApp1/bin/Debug/net5.0
+/Chapter_02/ConsoleApp1/obj
